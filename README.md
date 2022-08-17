@@ -1,1 +1,2 @@
-# il-plaka
+# id: Plaka Numarası
+# il: Şehir Adı
